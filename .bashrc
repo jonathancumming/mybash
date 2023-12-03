@@ -53,10 +53,10 @@ export EDITOR=nvim
 export VISUAL=nvim
 alias pico='edit'
 alias spico='sedit'
-alias nano='edit'
+#alias nano='edit'
 alias snano='sedit'
 alias vim='nvim'
-alias cat='batcat'
+#alias cat='batcat'
 
 # To have colors for ls and all grep commands such as grep, egrep and zgrep
 export CLICOLOR=1
